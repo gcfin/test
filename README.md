@@ -1,5 +1,3 @@
-{:toc}
-
 # test chapitre 1
 
 text
